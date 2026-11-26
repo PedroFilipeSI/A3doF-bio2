@@ -94,4 +94,3 @@ Terminal 3:
 cd Clinica-veterinaria\frontend
 npm install
 npm run dev
-
